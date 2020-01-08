@@ -1,4 +1,4 @@
-# 64-Bit Array Multiplier ASIC
+# 64-Bit Modular Array Multiplier ASIC
 Engineered with half-adders and full-adders for efficiency. Size is variable with parameter values, leaving it field-programmable for engineers who wish to use in FPGAs.
 
 The ASIC showcased in the report is a 64-bit implementation with over 13000 leaf cells.
