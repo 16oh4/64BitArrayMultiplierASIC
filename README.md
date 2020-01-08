@@ -1,5 +1,5 @@
 # 64-Bit Array Multiplier ASIC
-This design leaves room for the engineer to implement in an FPGA by making it programmable with parameter values in the Verilog HDL code.
+Engineered with half-adders and full-adders for efficiency. Size is variable with parameter values, leaving it field-programmable for engineers who wish to use in FPGAs.
 
 The ASIC showcased in the report is a 64-bit implementation with over 13000 leaf cells.
 
